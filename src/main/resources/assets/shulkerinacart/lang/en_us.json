@@ -1,0 +1,23 @@
+{
+  "itemGroup.shulker_minecarts": "Shulker Minecarts",
+
+  "entity.shulkerinacart.shulker_minecart": "Minecart with Shulker Box",
+
+  "item.shulkerinacart.shulker_minecart": "Minecart with Shulker Box",
+  "item.shulkerinacart.white_shulker_minecart": "Minecart with White Shulker Box",
+  "item.shulkerinacart.orange_shulker_minecart": "Minecart with Orange Shulker Box",
+  "item.shulkerinacart.magenta_shulker_minecart": "Minecart with Magenta Shulker Box",
+  "item.shulkerinacart.light_blue_shulker_minecart": "Minecart with Light Blue Shulker Box",
+  "item.shulkerinacart.yellow_shulker_minecart": "Minecart with Yellow Shulker Box",
+  "item.shulkerinacart.lime_shulker_minecart": "Minecart with Lime Shulker Box",
+  "item.shulkerinacart.pink_shulker_minecart": "Minecart with Pink Shulker Box",
+  "item.shulkerinacart.gray_shulker_minecart": "Minecart with Gray Shulker Box",
+  "item.shulkerinacart.light_gray_shulker_minecart": "Minecart with Light Gray Shulker Box",
+  "item.shulkerinacart.cyan_shulker_minecart": "Minecart with Cyan Shulker Box",
+  "item.shulkerinacart.purple_shulker_minecart": "Minecart with Purple Shulker Box",
+  "item.shulkerinacart.blue_shulker_minecart": "Minecart with Blue Shulker Box",
+  "item.shulkerinacart.brown_shulker_minecart": "Minecart with Brown Shulker Box",
+  "item.shulkerinacart.green_shulker_minecart": "Minecart with Green Shulker Box",
+  "item.shulkerinacart.red_shulker_minecart": "Minecart with Red Shulker Box",
+  "item.shulkerinacart.black_shulker_minecart": "Minecart with Black Shulker Box"
+}
